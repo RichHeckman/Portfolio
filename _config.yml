@@ -2,9 +2,9 @@
 title: Richard Heckman
 email: richardeheckman@gmail.com
 url: https://RichHeckman.github.io/portfolio
-description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
+description: "Portfolio of cybersecurity work samples for a entry-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Ethical Hacker"
+skills: "Cybersecurity - Analyst - IT "
 meta_author: Heckman Richard
 
 # Google webmaster tools
@@ -32,8 +32,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
-  location: Location
+  copyright:Rich Heckman
+  location:Michigan
   social: Around the Web
   credits: Credits
 
